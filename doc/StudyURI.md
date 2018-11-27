@@ -13,7 +13,9 @@ tim.williams@phuse.eu
 [ADD YOUR EMAILS HERE IF YOU WISH TO BE CONTACTED]
 
 ## Background
+Whay do we need URIs for studies.
 [KF or DG: PLEASE ADD CONTENT HERE,  some of which can come from your paper. Use generic terms to describe why a URI is needed]
+
 
 ## Proposed Structure
 A Study URI is comprised of three components. The Global Namespace, Resource Type, and Trial ID.
